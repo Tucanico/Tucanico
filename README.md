@@ -1,6 +1,6 @@
 # Ciao! I'm Jacopo 👋
 
-### 🚀 Software Engineer | Full Stack Developer
+### 🚀 Software Engineer | Full Stack
 **Graduate of 42 Berlin.** I combine the rigorous low-level problem-solving of a C/C++ engineer with the modern agility of a React/Next.js developer.
 
 ---
@@ -13,7 +13,7 @@
 
 ### 🔭 About Me
 * 🎓 **Software Engineering:** Completed the Common Core at **42 Berlin** (C, C++, Unix, Algorithms).
-* 💻 **Currently Building:** High-performance web apps with **Next.js 15 & TypeScript**.
+* 💻 **Currently Building:** High-performance web apps with **Next.js & TypeScript**.
 
 ---
 
